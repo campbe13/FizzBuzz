@@ -1,5 +1,11 @@
 #!/bin/bash
-
+#
+# Do the fizz buzz challenge
+# simple structure, nested & elifs
+##
+# P Campbell
+# 2018-02-01
+#
 for i in {1..100} ; do
 	if [[ $i -le 2 ]] || [[ $i -eq 4 ]]; then
 		echo $i
