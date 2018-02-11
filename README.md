@@ -16,5 +16,6 @@ both 3 and 5 show FizzBuzz instead of the number.
 
 Here goes, I will update the list as I go along
 
+* [python](python)  
 * [java](java)   
 * [bash](bash)  
