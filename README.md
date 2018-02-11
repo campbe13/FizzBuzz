@@ -16,5 +16,5 @@ both 3 and 5 show FizzBuzz instead of the number.
 
 Here goes, I will update the list as I go along
 
-* [FizzBuzz.sh](FizzBuzz.sh)   bash
-* [FizzBuzz2.sh](FizzBuzz2.sh)  bash  (work in progress)
+* [java](java)   
+* [bash](bash)  
