@@ -14,8 +14,19 @@ numbers from 1 to 100.   The catch is that for any number divisible by 3, show F
 5 show Buzz instead of the number.   For any number divisible by
 both 3 and 5 show FizzBuzz instead of the number.
 
+## Implementation
+
 Here goes, I will update the list as I go along
 
+* [Golang](golang)  
 * [python](python)  
 * [java](java)   
 * [bash](bash)  
+
+# TODOs
+* Ruby
+* Lisp
+* php
+* c
+* c++
+* c#
