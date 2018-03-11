@@ -1,7 +1,7 @@
 # bash
 
 Interpreted language, in order to run the code you must either have a *nix computer
-if it is Linux it will have bash installed.
+if it is Linux it will likely have bash installed.
 
 On Windows later versions of Windows 10 have a unix subsystem which comes with bash.
 Or you may install cygwin or gitbash
@@ -16,4 +16,7 @@ Or you may install cygwin or gitbash
 chmod +x fn.sh
 ./fn.sh
 ```
+## Reference(s)
+* http://tldp.org/bash  
+
 ## Learning

@@ -1,36 +1,42 @@
 "use strict";
-console.log ("before")
-
-var addli = function ( ) {
-  console.log ("onload")
-  var text = "yak"
-  var bod = document.getElementById("bod");
-  console.log("bod"+bod)
-  if (bod != undefined ) {
-    console.log(text)
-    var li = document.createElement('li');
-    // should be innerText???
-    li.innerHTML = text;
-    bod.appendChild(li)
-  } else {
-    var h1 = document.createElement('h1');
-    h1.innerHTML = "error in html, missing ul";
-    document.body.appendChild(h1)
-  }
-}
-document.addEventListener("DOMContentLoaded", addli);
-console.log("after")
 /*
-for (var i=0; i < 10; i++) {
-  if (i%3 == 0 ) {
-    bod.appendChild("Fizz")
-  }
-  if (i%5 == 0 ) {
-    bod.appendChild("Buzz")
-  }
-  bod.innerHtml("<li>"+i+"</li>")
-}
-} else {
-  console.log("no div with id bod")
-}
+* implement fizzbuzz challenge
+* 
+* add a header + ul to document body
+* loop through and add a <li> for 
+* the fizz buzz logic
+*
+* @author P Campbell
+*
 */
+var fizzbuzz = function ( ) {
+  console.log ("Dom loaded")
+  var h1 = document.createElement('h1');
+  document.body.appendChild(h1)
+  h1.innerHTML = "Welcome to FizzBuzz"
+  
+  var ul = document.createElement('ul');
+  var docUl = document.body.appendChild(ul)
+  var li; 
+ 
+  for (var i=1; i <= 100; i++)  {
+	li = document.createElement('li');
+    if (i%3 == 0 ) {
+		// should be innerText???
+		li.innerText = "Fizz";
+	}  
+    if (i%5 == 0 ) {
+		li.innerText += "Buzz";
+    }
+	if (i%5 != 0 && i%3 != 0)
+		li.innerText = i;
+	docUl.appendChild(li)
+	console.log(li.innerText + " " + i)
+	}
+	// find out how to close a tag  /ul not valid
+	// ul = document.createElement('/ul');
+    //docUl.appendChild(ul)
+}
+console.log ("before fizzbuzz")
+document.addEventListener("DOMContentLoaded", fizzbuzz);
+console.log("after fizzbuzz")
