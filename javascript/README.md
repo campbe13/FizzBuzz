@@ -8,6 +8,6 @@ n/a use a browser
 ## Compile / interpret
 Interpretation is done by the browser, load the html file with a browser
 ## Reference(s)
-* http://??
+* https://developer.mozilla.org/bm/docs/Web/JavaScript
 
 ## Learning

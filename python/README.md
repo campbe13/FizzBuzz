@@ -11,6 +11,6 @@ https://www.python.org/downloads/
 python fn.py
 ```
 ## Reference(s)
-* http://python.org??
+* https://docs.python.org/3/   
 
 ## Learning

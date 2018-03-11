@@ -17,6 +17,8 @@ chmod +x fn.sh
 ./fn.sh
 ```
 ## Reference(s)
-* http://tldp.org/bash  
+* http://tldp.org/LDP/Bash-Beginners-Guide/html/
+* http://tldp.org/LDP/abs/html/  Advanced bash sripting guide
+* https://www.gnu.org/software/bash/manual/  
 
 ## Learning

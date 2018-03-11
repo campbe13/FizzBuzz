@@ -11,6 +11,9 @@ go build -o fn
 ./fn
 ```
 ## Reference(s)
-* https://golang.org
+* https://tour.golang.org/list   A tour of Go
+* https://golang.org/doc/
+* https://golang.org  
+* https://golang.org/ref/spec  language spec
 
 ## Learning
