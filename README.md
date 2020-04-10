@@ -21,7 +21,9 @@ In short the challenge is to write code that will display numbers from 1 to 100:
 Here goes , I will update the list as I go along.  They are in reverse chronological order of implementation.
 
 * 2020
-    - [kotlin](kotlin)  
+    - [kotlin](kotlin) 
+    - [perl](perl) 
+    - [php](php)  work in progress
 * 2018
     - [javascript](javascript)  
     - [golang](golang)  
