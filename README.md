@@ -18,46 +18,46 @@ In short the challenge is to write code that will display numbers from 1 to 100:
 3. For any number divisible by both 3 and 5 show FizzBuzz instead of the number.
 
 ## Implementation
-
 Here goes , I will update the list as I go along.  They are in reverse chronological order of implementation.
+
 * 2020
-** [kotlin](kotlin)  
+    - [kotlin](kotlin)  
 * 2018
-** [javascript](javascript)  
-** [golang](golang)  
-** [python](python)  
-** [java](java)   
-** [bash](bash)  
+    - [javascript](javascript)  
+    - [golang](golang)  
+    - [python](python)  
+    - [java](java)   
+    - [bash](bash)  
 # TODOs
 * ruby
 * php
 * c languages 
-** c
-** c++
-** c#
-* objective-c ??
+    - c
+    - c++
+    - c#
+    - objective-c ??
 * perl
 * swift ??
 * wolfram language
 * erlang
 * scala
- * exlir
+    - exlir
 * cobol
 * groovy
 * R
 * smalltalk
 * awk (sed?)
 * more shells
- * csh / tcsh
- * zsh
- * ksh
- * fish
- * powershell
+    - csh / tcsh
+    - zsh
+    - ksh
+    - fish
+    - powershell
 * tcl / tk
 * functional languages
- * Lisp
- * Haskell
- * elm
- * Clojure
- * Racket
+    - Lisp
+    - Haskell
+    - elm
+    - Clojure
+    - Racket
 * assembler (turbo ?, gnu assembly ?)
