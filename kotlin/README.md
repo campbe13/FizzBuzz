@@ -25,5 +25,5 @@ $ java --jar fn.jar
 ```
 ## Reference(s)
 * https://kotlinlang.org/
-
+* idiomatic use of if as a function: https://kotlinlang.org/docs/reference/control-flow.html
 ## Learning
