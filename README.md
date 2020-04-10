@@ -1,12 +1,13 @@
 # Fizz Buzz
 
-2018-Jan-Feb-Mar
-
 Fizz Buzz is a coding challenge which (used to be?) given to
 interview candidates.   I wanted to learn Golang and I was searching
 for an idea of what to write.  I thought why not try FizzBuzz just to get started.
 Then I had another thought, what would FizzBuzz look like in
 other languages, so here it is.   Just for the fun of it! 
+
+2020-April Pandemic Time
+2018-Jan-Feb-Mar
 
 ## What is the Fizz Buzz coding challenge?
 [fizz buzz wikipedia](https://en.wikipedia.org/wiki/Fizz_buzz)
@@ -19,12 +20,14 @@ In short the challenge is to write code that will display numbers from 1 to 100:
 ## Implementation
 
 Here goes , I will update the list as I go along.  They are in reverse chronological order of implementation.
-
-* [javascript](javascript)  
-* [golang](golang)  
-* [python](python)  
-* [java](java)   
-* [bash](bash)  
+* 2020
+** [kotlin](kotlin)  
+* 2018
+** [javascript](javascript)  
+** [golang](golang)  
+** [python](python)  
+** [java](java)   
+** [bash](bash)  
 # TODOs
 * ruby
 * php
@@ -41,7 +44,6 @@ Here goes , I will update the list as I go along.  They are in reverse chronolog
  * exlir
 * cobol
 * groovy
-* kotlin
 * R
 * smalltalk
 * awk (sed?)
