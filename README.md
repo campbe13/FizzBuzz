@@ -18,12 +18,13 @@ In short the challenge is to write code that will display numbers from 1 to 100:
 3. For any number divisible by both 3 and 5 show FizzBuzz instead of the number.
 
 ## Implementation
-Here goes , I will update the list as I go along.  They are in reverse chronological order of implementation.
+Here goes , I will update the list as I go along.  They are in reverse chronological order of implementation.  (most recent work shows first)
 
 * 2020
-    - [kotlin](kotlin) 
+    - [cobol](cobol)  work in progress 
+    - [php](php)  
     - [perl](perl) 
-    - [php](php)  work in progress
+    - [kotlin](kotlin) 
 * 2018
     - [javascript](javascript)  
     - [golang](golang)  
