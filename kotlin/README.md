@@ -6,12 +6,12 @@ __personal note__ I really like this language, it takes a lot of the things lear
 
 ## Install not needed 
 You can run kotlin from https://play.kotlinlang.org/ 
-* kotlin using java idoms 
-**[play the code here](https://pl.kotl.in/k0BKaC_iS)  
-** [FizzBuzz1.kt](FizzBuzz1.kt)
 * idomatic kotlin 
-** [play the code here](https://pl.kotl.in/xtSJ-tK8T)	
-** [FizzBuzz2.kt](FizzBuzz2.kt)
+    * [play the code here](https://pl.kotl.in/xtSJ-tK8T)	
+    * Source code [FizzBuzz2.kt](FizzBuzz2.kt)
+* kotlin using java idoms 
+    * [play the code here](https://pl.kotl.in/k0BKaC_iS)  
+    * Source code [FizzBuzz1.kt](FizzBuzz1.kt)
 ## Compile / interpret
 If you have more complex code in mind you can use an IDE
 
