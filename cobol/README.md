@@ -7,7 +7,7 @@ I have only tested with open-cobol on ubuntu.
 I don't know if it is availble on Windows. 
 
 ## Install  
-* `sudo apt-get install open-cobol -y` 
+* Ubuntu 18.04  `sudo apt-get install open-cobol -y` 
 
 ## Compile / interpret
 See also my script [compilerun.sh](compilerun.sh)
