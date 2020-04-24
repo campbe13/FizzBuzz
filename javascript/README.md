@@ -11,3 +11,5 @@ Interpretation is done by the browser, load the html file with a browser
 * https://developer.mozilla.org/bm/docs/Web/JavaScript
 
 ## Learning
+* https://nodeschool.io/
+* https://learnjavascript.online/app.html
