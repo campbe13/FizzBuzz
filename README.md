@@ -21,7 +21,8 @@ In short the challenge is to write code that will display numbers from 1 to 100:
 Here goes , I will update the list as I go along.  They are in reverse chronological order of implementation.  (most recent work shows first)
 
 * 2020
-    - [cobol](cobol)  work in progress 
+    - [c](c)  
+    - [cobol](cobol)  
     - [php](php)  
     - [perl](perl) 
     - [kotlin](kotlin) 
