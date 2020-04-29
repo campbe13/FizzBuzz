@@ -1,7 +1,9 @@
-#
-# hello world
-#
-# P Campbell
-# February 2018
+#!/usr/bin/python
+"""
+hello world
 
-print ("Hello World")
+P Campbell
+February 2018
+'''
+
+print ("Hello World from Python")
