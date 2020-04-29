@@ -17,9 +17,9 @@ See also my script [compilerun.sh](compilerun.sh)
 cobc -free -x -o fn fn.cobol
 ./fn
 ```
+See [this file](RUNTIME.md) for runtime output
 ## Reference(s)
 * https://sourceforge.net/projects/open-cobol/
 * pretty good example + explanations of syntax  https://medium.com/@yvanscher/7-cobol-examples-with-explanations-ae1784b4d576
-* maybe IBM for syntax ???
-
+* OpenCobol FAQ http://opencobol.add1tocobol.com/
 ## Learning
