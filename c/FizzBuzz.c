@@ -7,7 +7,6 @@
 */
 
 int main(void) {
-    printf("FizzBuzz\n");
     char msg[8];
     for (int i=1;i <= 100; i++) {
       if (i % 3 == 0 || i % 5 == 0  ) {

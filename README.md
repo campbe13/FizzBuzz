@@ -20,7 +20,10 @@ In short the challenge is to write code that will display numbers from 1 to 100:
 ## Implementation
 Here goes , I will update the list as I go along.  They are in reverse chronological order of implementation.  (most recent work shows first)
 
+* 2020 in progress
+    - [erlang](erlang) functional
 * 2020
+    - [ruby](ruby)  
     - [c](c)  
     - [cobol](cobol)  
     - [php](php)  
@@ -29,19 +32,16 @@ Here goes , I will update the list as I go along.  They are in reverse chronolog
 * 2018
     - [javascript](javascript)  
     - [golang](golang)  
-    - [python](python)  
+    - [python 3](python) 
     - [java](java)   
     - [bash](bash)  
 # TODOs
-* ruby
 * c languages 
-    - c
     - c++
     - c#
     - objective-c ??
 * swift ??
 * wolfram language
-* erlang
 * scala
     - exlir
 * groovy
