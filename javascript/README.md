@@ -13,3 +13,6 @@ Interpretation is done by the browser, load the html file with a browser
 ## Learning
 * https://nodeschool.io/
 * https://learnjavascript.online/app.html
+
+## Runtime
+![loaded in chrome](js-runtime.PNG)
