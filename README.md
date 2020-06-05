@@ -37,28 +37,30 @@ Here goes , I will update the list as I go along.  They are in reverse chronolog
     - [bash](bash)  
 # TODOs
 * c languages 
-    - c++
-    - c#
-    - objective-c ??
-* swift ??
+    - c++   http://www.cplusplus.com/doc/tutorial/
+    - c#  https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
+    - objective-c https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html 
+* swift https://developer.apple.com/swift/
 * wolfram language
-* scala
+* scala https://www.scala-lang.org/
     - exlir
-* groovy
-* R
-* smalltalk
-* awk (sed?)
+* groovy https://groovy-lang.org/
+* R https://www.r-project.org/
+* smalltalk/squeak https://squeak.org/
+* awk https://www.gnu.org/software/gawk/manual/gawk.html  (sed?)  https://www.gnu.org/software/sed/manual/sed.html
 * more shells
-    - csh / tcsh
-    - zsh
-    - ksh
-    - fish
-    - powershell
-* tcl / tk
+    - csh / tcsh  https://www.tcsh.org/
+    - zsh http://zsh.sourceforge.net/
+    - ksh http://www.kornshell.com/
+    - fish https://fishshell.com/
+    - powershell https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/ise/how-to-write-and-run-scripts-in-the-windows-powershell-ise?view=powershell-7 
+* tcl / tk  https://www.tcl.tk/
 * functional languages
-    - Lisp
-    - Haskell
-    - elm
-    - Clojure
-    - Racket
-* assembler (turbo ?, gnu assembly ?)
+    - Lisp  https://lisp-lang.org/  https://common-lisp.net/
+    - Haskell https://www.haskell.org/
+    - elm https://elm-lang.org/
+    - Clojure https://clojure.org/
+    - Racket https://racket-lang.org/ 
+* assembler (turbo ?, gnu assembly ?) 
+    - https://docs.microsoft.com/en-us/cpp/assembler/masm/masm-for-x64-ml64-exe?view=vs-2019
+    - https://www.microsoft.com/en-ca/download/details.aspx?id=12654 
