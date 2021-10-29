@@ -10,30 +10,28 @@
 * @author P Campbell
 *
 */
-function fizzbuzz( ) {
-  console.log ("Dom loaded")
+document.addEventListener("DOMContentLoaded", fizzbuzz) 
+
+function fizzbuzz() {
+  console.log("Dom loaded")
   let h1 = document.createElement('h1');
   document.body.appendChild(h1)
   h1.textContent = "Welcome to FizzBuzz"
-  
+
   let ul = document.createElement('ul');
   document.body.appendChild(ul)
-  let li; 
- 
-  for (let i=1; i <= 100; i++)  {
-	li = document.createElement('li');
-    	if (i%3 == 0 ) {
-		li.textContent  = "Fizz";
-	}  
-    if (i%5 == 0 ) {
-		li.textContent += "Buzz";
+
+  for (let i = 1; i <= 100; i++) {
+    let li = document.createElement('li');
+    if (i % 3 == 0) {
+      li.textContent = "Fizz";
     }
-	if (i%5 != 0 && i%3 != 0)
-		li.textContent = i;
-	ul.appendChild(li)
-	console.log(li.textContent + " " + i)
-	}
+    if (i % 5 == 0) {
+      li.textContent += "Buzz";
+    }
+    if (i % 5 != 0 && i % 3 != 0)
+      li.textContent = i;
+    ul.appendChild(li)
+    console.log(li.textContent + " " + i)
+  }
 }
-console.log ("before fizzbuzz")
-document.addEventListener("DOMContentLoaded", fizzbuzz);
-console.log("after fizzbuzz")
