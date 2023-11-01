@@ -36,7 +36,7 @@ Here goes , I will update the list as I go along.  They are in reverse chronolog
     - [java](java)   
     - [bash](bash)  
 # TODOs
-* c languages 
+* c language *extensions* or *children*
     - c++   http://www.cplusplus.com/doc/tutorial/
     - c#  https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
     - objective-c https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html 
@@ -48,6 +48,7 @@ Here goes , I will update the list as I go along.  They are in reverse chronolog
 * R https://www.r-project.org/
 * smalltalk/squeak https://squeak.org/
 * awk https://www.gnu.org/software/gawk/manual/gawk.html  (sed?)  https://www.gnu.org/software/sed/manual/sed.html
+* rust https://www.rust-lang.org/
 * more shells
     - csh / tcsh  https://www.tcsh.org/
     - zsh http://zsh.sourceforge.net/
